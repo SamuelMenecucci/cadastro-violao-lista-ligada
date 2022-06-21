@@ -1,4 +1,4 @@
-# cadastro-violao-lista-ligada
+# CRUD Javascript com lista Ligada.
 
 Aplicação realizada para uma prova da faculdade.
 
