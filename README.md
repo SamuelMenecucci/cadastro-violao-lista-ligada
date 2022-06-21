@@ -1,4 +1,4 @@
-# CRUD Javascript com lista Ligada.
+# CRUD Javascript com lista ligada.
 
 Aplicação realizada para uma prova da faculdade.
 
